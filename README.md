@@ -13,10 +13,6 @@ Pip Remove is a Python GUI application designed to provide an easy and efficient
 - Python 3.6 or higher
 - pip (Python package installer)
 
-## Screenshot
-
-![Pip Remove Screenshot](https://raw.githubusercontent.com/dreamcatcher45/Pip-Remove/main/pip-remove.png)
-
 ## Installation
 
 1. Clone the repository:
@@ -39,6 +35,10 @@ Pip Remove is a Python GUI application designed to provide an easy and efficient
    python app.py
    ```
 2. Use the GUI to view installed packages and remove them as needed.
+
+## Screenshot
+
+![Pip Remove Screenshot](https://raw.githubusercontent.com/dreamcatcher45/Pip-Remove/main/pip-remove.png)
 
 ## Contributing
 

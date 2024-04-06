@@ -15,7 +15,7 @@ Pip Remove is a Python GUI application designed to provide an easy and efficient
 
 ## Screenshot
 
-
+![Pip Remove Screenshot](https://raw.githubusercontent.com/dreamcatcher45/Pip-Remove/main/pip-remove.png)
 
 ## Installation
 

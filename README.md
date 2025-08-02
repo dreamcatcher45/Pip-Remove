@@ -17,7 +17,7 @@ Pip Remove is a Python GUI application designed to provide an easy and efficient
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/pip-remove.git
+   git clone https://github.com/dreamcatcher45/pip-remove.git
    ```
 2. Navigate to the project directory:
    ```
